@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background-color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#card-shop {
+  width: 350px;
+  height: 490px;
+  border: 1px solid #eceff1;
+  margin: 100px auto;
+  border-radius: 20px;
+  background: #e0e0e0;
+  box-shadow: 23px 23px 67px #bebebe, -23px -23px 67px #ffffff;
+}
+
+/* card top style */
+#image-card__top {
+  text-align: center;
+  margin: 5px;
+}
+#card-shop img {
+  width: 325px;
+  height: 230px;
+  border-radius: 15px;
+}
+/* top card links style */
+#top-card a {
+  padding: 5px;
+  border: 1px solid #90a4ae;
+  border-radius: 45px;
+  text-align: center;
+  text-decoration: none;
+  color: #90a4ae;
+}
+#card-tags {
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+/* main card style */
+#main-card {
+  margin-left: 25px;
+}
+#main-card p {
+  color: #90a4ae;
+
+  /* bottom card style */
+}
+#bottom-card {
+  text-align: center;
+  margin-top: 15px;
+}
+#bottom-card a {
+  text-decoration: none;
+  padding: 12px;
+  color: #2962ff;
+  background-color: #90caf9;
+  border-radius: 60px;
+}
